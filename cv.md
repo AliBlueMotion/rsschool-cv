@@ -27,3 +27,9 @@
 ---
 ## Recent project
 [FRAMEFLOW](https://alibluemotion.github.io/FRAMEFLOW/)
+
+---
+## Languages
+* Russian - native
+* English - A2-B1 level
+* Kazakh - B1-B2 level
